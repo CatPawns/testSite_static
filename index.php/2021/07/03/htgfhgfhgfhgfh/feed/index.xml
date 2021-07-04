@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comentarios en: htgfhgfhgfhgfh	</title>
-	<atom:link href="/index.php/2021/07/03/htgfhgfhgfhgfh/feed/" rel="self" type="application/rss+xml" />
-	<link>/index.php/2021/07/03/htgfhgfhgfhgfh/</link>
+	Comentarios en: Entrada con Imagen	</title>
+	<atom:link href="/testSite_static/index.php/2021/07/03/htgfhgfhgfhgfh/feed/" rel="self" type="application/rss+xml" />
+	<link>/testSite_static/index.php/2021/07/03/htgfhgfhgfhgfh/</link>
 	<description>Descripcion corta!</description>
-	<lastBuildDate>Sat, 03 Jul 2021 19:50:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 18:39:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
