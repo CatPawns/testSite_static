@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>drawing &#8211; inkishipaint</title>
+	<title>drawing &#8211; Inkishipaint</title>
 	<atom:link href="/testSite_static/index.php/tag/drawing/feed/" rel="self" type="application/rss+xml" />
 	<link>/testSite_static</link>
-	<description>Descripcion corta!</description>
+	<description>Art Tutorials!</description>
 	<lastBuildDate>Sun, 04 Jul 2021 18:40:39 +0000</lastBuildDate>
 	<language>es-CO</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/testSite_static/wp-content/uploads/2021/07/cat-ref.jpg</url>
+	<title>drawing &#8211; Inkishipaint</title>
+	<link>/testSite_static</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Entrada nueva</title>
 		<link>/testSite_static/index.php/2021/07/03/entrada-nueva/</link>

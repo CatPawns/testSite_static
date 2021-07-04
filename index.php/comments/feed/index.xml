@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comentarios para inkishipaint	</title>
+	Comentarios para Inkishipaint	</title>
 	<atom:link href="/testSite_static/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/testSite_static</link>
-	<description>Descripcion corta!</description>
+	<description>Art Tutorials!</description>
 	<lastBuildDate>Sat, 03 Jul 2021 15:28:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
