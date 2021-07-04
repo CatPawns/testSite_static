@@ -9,8 +9,8 @@
 
 <channel>
 	<title>drawing &#8211; inkishipaint</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../../index.html</link>
+	<atom:link href="/index.php/tag/drawing/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Descripcion corta!</description>
 	<lastBuildDate>Sat, 03 Jul 2021 15:37:37 +0000</lastBuildDate>
 	<language>es-CO</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Entrada nueva</title>
-		<link>./../../../2021/07/03/entrada-nueva/index.html</link>
-					<comments>./../../../2021/07/03/entrada-nueva/index.html#respond</comments>
+		<link>/index.php/2021/07/03/entrada-nueva/</link>
+					<comments>/index.php/2021/07/03/entrada-nueva/#respond</comments>
 		
 		<dc:creator><![CDATA[inkishi]]></dc:creator>
 		<pubDate>Sat, 03 Jul 2021 15:37:37 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
 		<category><![CDATA[drawing]]></category>
 		<category><![CDATA[fundamentals]]></category>
-		<guid isPermaLink="false">./../../../../wordpress/index.html?p=5</guid>
+		<guid isPermaLink="false">/wordpress/?p=5</guid>
 
 					<description><![CDATA[Jajajajajajajajajjajajajja.]]></description>
 										<content:encoded><![CDATA[
 <p>Jajajajajajajajajjajajajja.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2021/07/03/entrada-nueva/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/index.php/2021/07/03/entrada-nueva/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
